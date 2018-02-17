@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Traffic Predictor</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">Name</string>
+    <string name="dob_hint">Date of Birth</string>
+    <string name="phone_hint">Phone No</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="prompt"></string>
+    <string name="username">admin</string>
+    <string name="email">admin@admin.com</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_main">Traffic Predictor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="exit">Exit</string>
+</resources>

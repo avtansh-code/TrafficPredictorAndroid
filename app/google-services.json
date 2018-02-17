@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "572753858019",
+    "firebase_url": "https://traffic-predictor-233145.firebaseio.com",
+    "project_id": "traffic-predictor-233145",
+    "storage_bucket": "traffic-predictor-233145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572753858019:android:399e0652ac985972",
+        "android_client_info": {
+          "package_name": "com.example.avtansh.trafficpredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572753858019-f9jd6s8570j2o3hioi7q6da7cr2g4nih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avtansh.trafficpredictor",
+            "certificate_hash": "beeee2068e3eef2d0aa1295a0eb7b6a92b680d36"
+          }
+        },
+        {
+          "client_id": "572753858019-g07i4o2gefmuflhigg2fv082ij2u7llj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRa5ML40vAAWKQnPlc53l-syPqrnxlHqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572753858019-g07i4o2gefmuflhigg2fv082ij2u7llj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

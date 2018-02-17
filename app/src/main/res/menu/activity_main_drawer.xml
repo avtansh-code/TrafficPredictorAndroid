@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/hauz_khas"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Hauz Khas" />
+        <item
+            android:id="@+id/model_town"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Model Town" />
+        <item
+            android:id="@+id/civil_lines"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Civil Lines" />
+        <item
+            android:id="@+id/punjabi_bagh"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Punjabi Bagh" />
+        <item
+            android:id="@+id/najafgarh"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Najafgarh" />
+        <item
+            android:id="@+id/sarawati_vihar"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Saraswati Vihar" />
+        <item
+            android:id="@+id/mukarba_chowk"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Mukarba Chowk" />
+        <item
+            android:id="@+id/seelampur"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Seelampur" />
+        <item
+            android:id="@+id/gurugram"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Gurugram" />
+        <item
+            android:id="@+id/noida"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Noida" />
+    </group>
+</menu>
